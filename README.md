@@ -1,6 +1,3 @@
-# city-skyline
-City skyline built with pure HTML and CSS (freeCodeCamp project)
-
 # City Skyline
 
 A project built as part of the **Responsive Web Design** certification from freeCodeCamp.
