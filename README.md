@@ -17,3 +17,6 @@ Practice visual composition and advanced CSS techniques without relying on exter
 
 ## Status
 Completed.
+
+## Preview
+![Project preview](preview-day.png)
