@@ -19,4 +19,9 @@ Practice visual composition and advanced CSS techniques without relying on exter
 Completed.
 
 ## Preview
-![Project preview](preview-day.png)
+
+**Day version**
+![Day preview](preview-day.png)
+
+**Night version**
+![Night preview](preview-night.png)
